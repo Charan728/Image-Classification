@@ -13,8 +13,8 @@
 ```
 
 Program to implement 
-Developed by   : MANNEPALLI UDAY KUMAR
-RegisterNumber : 212219040168
+Developed by   : Chiranjeevi A
+RegisterNumber : 212219040022
 
 ```
 
