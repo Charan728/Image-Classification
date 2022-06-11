@@ -84,11 +84,6 @@ print("Our model says it is a :", pred)
 ## OUTPUT:
 ![OUTPUT](https://user-images.githubusercontent.com/65896248/172109272-9ccb89d1-85a3-412b-bf59-bd53521a1d16.png)
 
-## YOUTUBE LINK:
-
-**CLICK ON BELOW IMAGE**
-
-[![IMAGE_ALT](https://user-images.githubusercontent.com/65896248/172110385-d69e078e-a364-4af6-b42c-4d439a0371e0.png)](https://www.youtube.com/watch?v=6L1iTMpjlL4)
 
 
 
