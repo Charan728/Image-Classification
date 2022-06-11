@@ -13,8 +13,8 @@
 ```
 
 Program to implement 
-Developed by   : Chiranjeevi A
-RegisterNumber : 212219040022
+Developed by   : Alla Venkata Charan Reddy
+RegisterNumber : 212219040010
 
 ```
 
